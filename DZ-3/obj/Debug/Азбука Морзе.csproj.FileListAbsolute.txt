@@ -1,9 +1,0 @@
-C:\Users\Valery\Downloads\ProjectCode\bin\Debug\Азбука Морзе.exe
-C:\Users\Valery\Downloads\ProjectCode\bin\Debug\Азбука Морзе.pdb
-C:\Users\Valery\Downloads\ProjectCode\obj\Debug\Азбука Морзе.csproj.AssemblyReference.cache
-C:\Users\Valery\Downloads\ProjectCode\obj\Debug\Morse.Form1.resources
-C:\Users\Valery\Downloads\ProjectCode\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
-C:\Users\Valery\Downloads\ProjectCode\obj\Debug\Азбука Морзе.csproj.GenerateResource.cache
-C:\Users\Valery\Downloads\ProjectCode\obj\Debug\Азбука Морзе.csproj.CoreCompileInputs.cache
-C:\Users\Valery\Downloads\ProjectCode\obj\Debug\Азбука Морзе.exe
-C:\Users\Valery\Downloads\ProjectCode\obj\Debug\Азбука Морзе.pdb
